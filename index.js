@@ -41,6 +41,6 @@ function update(email, amount) {
   });
 }
 
-var port = process.env.PORT || 3000;
+var port = 17893 || process.env.PORT;
 app.listen(port);
 console.log("Running on port: " + port);
