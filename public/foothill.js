@@ -9,7 +9,7 @@ const Foothill = () => {
             <b>Address:</b> 2700 Hearst Ave, Berkeley, CA 94720
           </h4>
           <p>
-            <b>Description:</b> most Annoying Place in the World!!
+            <b>Description:</b> Nestled in the Berkeley hills on the northeast side of campus, especially convenient to STEM buildings including the College of Engineering.
           </p>
         </div>
 
