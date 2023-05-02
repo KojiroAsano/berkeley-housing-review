@@ -11,7 +11,7 @@ const Unit1 = () => {
             <b>Address:</b> 2650 Durant Ave, Berkeley, CA 94720
           </h4>
           <p>
-            <b>Description:</b> most Annoying Place in the World!!
+            <b>Description:</b>A traditional residential hall experience in the urban heart of Berkeley, close to local cafes, restaurants, and shops. Conveniently located one block from the south side of campus.
           </p>
         </div>
 
