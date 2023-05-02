@@ -9,7 +9,7 @@ const ClarkKerr = () => {
             <b>Address:</b> 2601 Warring St, Berkeley, CA 94720
           </h4>
           <p>
-            <b>Description:</b> most Annoying Place in the World!!
+            <b>Description:</b> A mini-neighborhood with Spanish mission-style architecture, tree-lined courtyards and access to nature and hiking trails.
           </p>
         </div>
 
